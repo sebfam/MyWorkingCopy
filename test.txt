@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6048-704E
+
+ Directory of C:\Users\sfamulski.WINCOIG\Desktop\GITProject
+
+17.04.2018  13:22    <DIR>          .
+17.04.2018  13:22    <DIR>          ..
+17.04.2018  13:22                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  72ÿ344ÿ608ÿ768 bytes free
